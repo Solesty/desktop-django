@@ -1,6 +1,6 @@
-# Foobar
+# Desktop Django
 
-Executable Django is an executable web application. The goal is to create a simple desktop application that can run on Windows/Linux/Mac Operating Systems. The UI of the application will be done with ElectronJS
+Desktop Django is an executable web application. The goal is to create a simple desktop application that can run on Windows/Linux/Mac Operating Systems. The UI of the application will be done with ElectronJS
 
 ## Building File
 ```bash
